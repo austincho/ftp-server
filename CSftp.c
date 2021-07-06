@@ -1,17 +1,7 @@
 #include <sys/types.h>
-<<<<<<< HEAD
 #include "dir.h"
 #include "usage.h"
 #include "helpers.h"
-=======
-#include <sys/socket.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include "dir.h"
-#include "usage.h"
-#include "helpers.h"
-
->>>>>>> ee9a0e29ecd6fef64aa385e6ef454e641e5a59f3
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
